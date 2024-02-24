@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Gunner-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "gunner-script",
+        "guiName": "gunner-script"
+    }
+}

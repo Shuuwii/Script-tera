@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "sorc-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "sorc-script",
+        "guiName": "sorc-script"
+    }
+}

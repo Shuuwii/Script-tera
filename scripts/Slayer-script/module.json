@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Slayer-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "Slayer-script",
+        "guiName": "Slayer-script"
+    }
+}

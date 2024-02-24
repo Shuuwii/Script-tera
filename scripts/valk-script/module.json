@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "valka-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "valka-script",
+        "guiName": "valka-script"
+    }
+}

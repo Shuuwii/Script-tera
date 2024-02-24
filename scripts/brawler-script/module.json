@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Brawler-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "brawler-script",
+        "guiName": "brawler-script"
+    }
+}

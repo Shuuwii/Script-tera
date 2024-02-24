@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Archer-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "archer-script",
+        "guiName": "archer-script"
+    }
+}

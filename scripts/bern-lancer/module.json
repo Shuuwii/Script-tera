@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "Lancer-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "lancer-script",
+        "guiName": "lancer-script"
+    }
+}

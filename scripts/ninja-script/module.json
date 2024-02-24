@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "ninja-script",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "ninja-script",
+        "guiName": "ninja-script"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "disableAutoUpdate": true,
+    "name": "warr-special",
+    "author": "Bernkastel",
+    "description": "==",
+    "version": "1.0",
+    "options": {
+        "niceName": "warr-special",
+        "guiName": "warr-special"
+    }
+}
